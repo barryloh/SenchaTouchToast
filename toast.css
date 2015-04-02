@@ -1,0 +1,35 @@
+/*
+ * Styles for toast container. Color to map to Android Material Design guidelines.
+ */
+.ba-toast {
+    min-height: 48px;
+    margin: 0 15px;
+    padding: 13px 24px;
+    background-color: #323232;
+}
+
+/*
+ * Styles for message in toast. Change the font/font-size if needed.
+ */
+.ba-toast-msg {
+    color: white;
+    font-size: 16px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/*
+ * Styles for action button in toast. Change the color/properties if needed.
+ */
+.ba-toast-action-btn {
+    height: 20px;
+    min-height: 20px;
+    max-height: 20px;
+    padding: 0px !important;
+    background: transparent !important;
+    border: 0px !important;
+    color: rgb(255,255,66);
+    font-size: 16px;
+    text-transform: uppercase;
+}
