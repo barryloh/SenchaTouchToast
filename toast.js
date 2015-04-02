@@ -5,14 +5,11 @@
  * Version: 1.0
  * Copyright (c) 2015 Barry Loh 
  *
- * Follow project on GitHub: https://github.com/ ...
- *
- *
- * < Incl license here >
+ * Follow project on GitHub: https://github.com/barrybear/SenchaTouchToast
  * 
  * Steps:
  * 1. At Application level, include 'BA.Toast' in 'requires'.
- * 2. Create an instance of this class, specify parameters and call .show() method.
+ * 2. Create an instance of this class, specify parameters.
  *
  * Example usage:
  * Ext.create('BA.Toast', {
@@ -154,6 +151,7 @@
 			case 'string':
 				if (toastDur.trim().toUpperCase() === me.getShortDuration())     toastDur = me.getShortDurationTS();
 				else if (toastDur.trim().toUpperCase() === me.getLongDuration()) toastDur = me.getLongDurationTS();
+				else toastDur = me.getLongDurationTS);
 				break;
 
 		case 'number':
