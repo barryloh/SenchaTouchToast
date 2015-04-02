@@ -1,14 +1,14 @@
 # Sencha Touch Toast
 
 ## Contents
-* #### [About](https://github.com/barrybear/SenchaTouchToast/blob/master/README.md#about)
-* #### [Compatibility](https://github.com/barrybear/SenchaTouchToast/blob/master/README.md#compatibility)
-* #### [Getting Started](https://github.com/barrybear/SenchaTouchToast/blob/master/README.md#getting-started)
-* #### [Usage](https://github.com/barrybear/SenchaTouchToast/blob/master/README.md#usage)
-* #### [Documentation](https://github.com/barrybear/SenchaTouchToast/blob/master/README.md#documentation)
-* #### [FAQ](https://github.com/barrybear/SenchaTouchToast/blob/master/README.md#faq)
-* #### [Screenshots](https://github.com/barrybear/SenchaTouchToast/blob/master/README.md#screenshots)
-* #### [Changelog](https://github.com/barrybear/SenchaTouchToast/blob/master/README.md#changelog)
+* [About](https://github.com/barrybear/SenchaTouchToast/blob/master/README.md#about)
+* [Compatibility](https://github.com/barrybear/SenchaTouchToast/blob/master/README.md#compatibility)
+* [Getting Started](https://github.com/barrybear/SenchaTouchToast/blob/master/README.md#getting-started)
+* [Usage](https://github.com/barrybear/SenchaTouchToast/blob/master/README.md#usage)
+* [Documentation](https://github.com/barrybear/SenchaTouchToast/blob/master/README.md#documentation)
+* [FAQ](https://github.com/barrybear/SenchaTouchToast/blob/master/README.md#faq)
+* [Screenshots](https://github.com/barrybear/SenchaTouchToast/blob/master/README.md#screenshots)
+* [Changelog](https://github.com/barrybear/SenchaTouchToast/blob/master/README.md#changelog)
 
 ## About
 
@@ -53,7 +53,7 @@ To show a toast with an **undo action button**:
 	});
 	
 ## Documentation
----
+
 Parameter     | Value
 :------------ | :----
 message      | A **string** to display on the toast. Pick something real short and sweet!
